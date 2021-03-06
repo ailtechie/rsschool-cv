@@ -1,1 +1,68 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
 
+  line-height: 1.5;
+  color: #333;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+/* Container */
+.container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 15px;
+  background-color: ghostwhite;
+  color: #333;
+}
+
+/* Header */
+.header {
+  width: 100%;
+  padding-top: 30px;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+.main {
+  margin-top: 15px;
+}
+
+.nav {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.avatar {
+  float: right;
+  margin: 7px 7px 7px 7px;
+}
+
+.ontop {
+  font-size: x-small;
+  margin-left: 10px;
+}
+.footer {
+  position: fixed;
+  bottom: 0px;
+  padding: 20px;
+}
