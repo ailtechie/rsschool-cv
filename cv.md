@@ -19,7 +19,7 @@ Driving license<br>
 <br>
 **Experience and Projects**<br>
 Past experience in web design and producing several web sites<br>
-Project: <http://www.stiepf.net/><br>
+Project: <http://www.stiepf.net/><br><br>
 <br>
 **Education**<br>
 * *Certificate in Advanced English, Council of Europe Level C1*<br>
